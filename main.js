@@ -20,7 +20,7 @@ let board = [
 
 // assigns the first mark as 'X'
 // using let because the variable is expected to change from 'X' to 'O' and back
-let playerTurn = 'X';
+let playerTurn = 'yooo X';
 
 const changeTurn = () => {
   if(playerTurn === "X") {
